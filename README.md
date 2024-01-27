@@ -21,7 +21,7 @@
   <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone [repository-url]
+<pre><code>git clone https://github.com/ShivanshKothari/site-crawler-python/
 cd Site-Crawler
 </code></pre>
 
